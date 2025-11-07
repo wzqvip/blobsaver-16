@@ -1,6 +1,11 @@
-Reactive the git actions to generate new builds.
+Reactive the git actions to generate new builds. I did not made any updates on it.
+
+Download link : [all builds](https://nightly.link/wzqvip/blobsaver-16/workflows/main/master)
+
 <img width="853" height="319" alt="image" src="https://github.com/user-attachments/assets/cb5729a8-7fff-4748-804c-f45a8bbf7d66" />
 
+
+## The belows are from the original repo.
 
 Help support this project by ⭐️'ing it; [Donations](https://www.paypal.me/airsqrd) also appreciated!
 
