@@ -24,7 +24,7 @@ A cross-platform GUI and CLI for automatically saving SHSH blobs. [Download](htt
 
 ## Nightly Builds
 
-You can get the latest nightly build [here](https://nightly.link/airsquared/blobsaver/workflows/main/master) or get older nightly builds at [Actions](https://github.com/airsquared/blobsaver/actions).
+You can get the latest nightly build [here](https://nightly.link/wzqvip/blobsaver-16/workflows/main/master) or get older nightly builds at [Actions](https://github.com/wzqvip/blobsaver-16/actions).
 
 ## Feedback
 
