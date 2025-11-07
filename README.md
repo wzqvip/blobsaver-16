@@ -4,6 +4,10 @@ Download link : [all builds](https://nightly.link/wzqvip/blobsaver-16/workflows/
 
 <img width="853" height="319" alt="image" src="https://github.com/user-attachments/assets/cb5729a8-7fff-4748-804c-f45a8bbf7d66" />
 
+notes:
+I have 13 and 16e. I want to have the ability to downgrade before update to IOS26.
+Looks the blob method doesn't work.. [iosdowngrade](https://www.reddit.com/r/iOSDowngrade/comments/j1x7iv/downgrade_and_dualboot_status_of_almost_all_ios/)
+
 
 ## The belows are from the original repo.
 
